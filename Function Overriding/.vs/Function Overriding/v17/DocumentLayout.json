@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MSI-PC\\Work Files\\C\u002B\u002B\\Abu Hadhud\\10 - OOP as it Should Be (Concepts)\\Function Overriding\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98068874-07EB-4A91-B5F9-95D656FE30B5}|Function Overriding\\Function Overriding.vcxproj|C:\\Users\\MSI-PC\\Work Files\\C\u002B\u002B\\Abu Hadhud\\10 - OOP as it Should Be (Concepts)\\Function Overriding\\Function Overriding\\Function Overriding.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{98068874-07EB-4A91-B5F9-95D656FE30B5}|Function Overriding\\Function Overriding.vcxproj|solutionrelative:Function Overriding\\Function Overriding.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Function Overriding.cpp",
+              "DocumentMoniker": "C:\\Users\\MSI-PC\\Work Files\\C\u002B\u002B\\Abu Hadhud\\10 - OOP as it Should Be (Concepts)\\Function Overriding\\Function Overriding\\Function Overriding.cpp",
+              "RelativeDocumentMoniker": "Function Overriding\\Function Overriding.cpp",
+              "ToolTip": "C:\\Users\\MSI-PC\\Work Files\\C\u002B\u002B\\Abu Hadhud\\10 - OOP as it Should Be (Concepts)\\Function Overriding\\Function Overriding\\Function Overriding.cpp",
+              "RelativeToolTip": "Function Overriding\\Function Overriding.cpp",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAUwLIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-07T19:13:52.19Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
