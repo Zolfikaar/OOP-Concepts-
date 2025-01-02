@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MSI-PC\\Work Files\\C\u002B\u002B\\Abu Hadhud\\10 - OOP as it Should Be (Concepts)\\Project 2 - Date Library\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7786F4-9BB4-4000-AF20-909817547097}|Project 2 - Date Library\\Project 2 - Date Library.vcxproj|C:\\Users\\MSI-PC\\Work Files\\C\u002B\u002B\\Abu Hadhud\\10 - OOP as it Should Be (Concepts)\\Project 2 - Date Library\\Project 2 - Date Library\\Project 2 - Date Library.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0E7786F4-9BB4-4000-AF20-909817547097}|Project 2 - Date Library\\Project 2 - Date Library.vcxproj|solutionrelative:Project 2 - Date Library\\Project 2 - Date Library.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7786F4-9BB4-4000-AF20-909817547097}|Project 2 - Date Library\\Project 2 - Date Library.vcxproj|C:\\Users\\MSI-PC\\Work Files\\C\u002B\u002B\\Abu Hadhud\\10 - OOP as it Should Be (Concepts)\\Project 2 - Date Library\\Project 2 - Date Library\\clsDate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0E7786F4-9BB4-4000-AF20-909817547097}|Project 2 - Date Library\\Project 2 - Date Library.vcxproj|solutionrelative:Project 2 - Date Library\\clsDate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsDate.h",
+              "DocumentMoniker": "C:\\Users\\MSI-PC\\Work Files\\C\u002B\u002B\\Abu Hadhud\\10 - OOP as it Should Be (Concepts)\\Project 2 - Date Library\\Project 2 - Date Library\\clsDate.h",
+              "RelativeDocumentMoniker": "Project 2 - Date Library\\clsDate.h",
+              "ToolTip": "C:\\Users\\MSI-PC\\Work Files\\C\u002B\u002B\\Abu Hadhud\\10 - OOP as it Should Be (Concepts)\\Project 2 - Date Library\\Project 2 - Date Library\\clsDate.h",
+              "RelativeToolTip": "Project 2 - Date Library\\clsDate.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-10T13:11:46.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Project 2 - Date Library.cpp",
+              "DocumentMoniker": "C:\\Users\\MSI-PC\\Work Files\\C\u002B\u002B\\Abu Hadhud\\10 - OOP as it Should Be (Concepts)\\Project 2 - Date Library\\Project 2 - Date Library\\Project 2 - Date Library.cpp",
+              "RelativeDocumentMoniker": "Project 2 - Date Library\\Project 2 - Date Library.cpp",
+              "ToolTip": "C:\\Users\\MSI-PC\\Work Files\\C\u002B\u002B\\Abu Hadhud\\10 - OOP as it Should Be (Concepts)\\Project 2 - Date Library\\Project 2 - Date Library\\Project 2 - Date Library.cpp",
+              "RelativeToolTip": "Project 2 - Date Library\\Project 2 - Date Library.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-10T13:10:28.501Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

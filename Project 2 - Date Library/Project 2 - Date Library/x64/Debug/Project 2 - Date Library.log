@@ -1,0 +1,20 @@
+﻿  Project 2 - Date Library.cpp
+C:\Users\MSI-PC\Work Files\C++\Abu Hadhud\10 - OOP as it Should Be (Concepts)\Project 2 - Date Library\Project 2 - Date Library\clsString.h(39,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project%202%20-%20Date%20Library.cpp')
+  
+C:\Users\MSI-PC\Work Files\C++\Abu Hadhud\10 - OOP as it Should Be (Concepts)\Project 2 - Date Library\Project 2 - Date Library\clsString.h(44,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project%202%20-%20Date%20Library.cpp')
+  
+C:\Users\MSI-PC\Work Files\C++\Abu Hadhud\10 - OOP as it Should Be (Concepts)\Project 2 - Date Library\Project 2 - Date Library\clsString.h(56,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project%202%20-%20Date%20Library.cpp')
+  
+C:\Users\MSI-PC\Work Files\C++\Abu Hadhud\10 - OOP as it Should Be (Concepts)\Project 2 - Date Library\Project 2 - Date Library\clsString.h(193,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project%202%20-%20Date%20Library.cpp')
+  
+C:\Users\MSI-PC\Work Files\C++\Abu Hadhud\10 - OOP as it Should Be (Concepts)\Project 2 - Date Library\Project 2 - Date Library\clsString.h(324,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project%202%20-%20Date%20Library.cpp')
+  
+C:\Users\MSI-PC\Work Files\C++\Abu Hadhud\10 - OOP as it Should Be (Concepts)\Project 2 - Date Library\Project 2 - Date Library\clsString.h(372,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project%202%20-%20Date%20Library.cpp')
+  
+  Project 2 - Date Library.vcxproj -> C:\Users\MSI-PC\Work Files\C++\Abu Hadhud\10 - OOP as it Should Be (Concepts)\Project 2 - Date Library\x64\Debug\Project 2 - Date Library.exe
